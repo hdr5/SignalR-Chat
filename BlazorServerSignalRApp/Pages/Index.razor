@@ -1,0 +1,86 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.SignalR.Client
+@inject NavigationManager Navigation
+@inject Data.ChatService ChatService
+@implements IAsyncDisposable
+
+<PageTitle>Index</PageTitle>
+
+<div class="form-group">
+    <label>
+        User:
+        <input @bind="userInput" />
+    </label>
+    <input type="button" value="Add User" @onclick="AddUser"/>
+</div>
+<div class="form-group">
+    <label>
+        Message:
+        <input @bind="messageInput" size="50"/><br />
+        ToUser:
+        <input @bind="toUserInput" size="50" />
+    </label>
+</div>
+<button @onclick="Send" disabled="@(!IsConnected)">Send</button>
+
+<hr>
+
+<ul id="messagesList">
+    @foreach (var message in messages)
+    {
+        <li>@message</li>
+    }
+</ul>
+
+@code {
+    private HubConnection? hubConnection;
+    private List<string> messages = new List<string>();
+    private string? userInput;
+    private string? messageInput;
+    private string? toUserInput;
+
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(Navigation.ToAbsoluteUri("/chathub"))
+            .Build();
+
+        hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
+        {
+            var encodedMsg = $"[{DateTime.Now.Hour}:{DateTime.Now.Minute} On {DateTime.Today.DayOfWeek}] {user} wrote: {message}";
+            messages.Add(encodedMsg);
+            InvokeAsync(StateHasChanged);
+        });
+
+        await hubConnection.StartAsync();
+    }
+    ///////////////////////////////its suppose to work but something wrong in chat file with the function 'first'
+    private async Task Send()
+    { 
+        if (hubConnection is not null)
+        {
+            if(toUserInput is not null)
+               await hubConnection.SendAsync("SendPrivateMessage", toUserInput, messageInput);
+            await hubConnection.SendAsync("SendMessage", messageInput);
+            messageInput = "";
+        }
+    }
+    private void AddUser()
+    {
+        if(userInput is not null)
+        {
+            ChatService.AddUser(hubConnection.ConnectionId, userInput);
+        }
+    }
+
+    public bool IsConnected =>
+        hubConnection?.State == HubConnectionState.Connected;
+
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+}

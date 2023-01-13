@@ -1,0 +1,99 @@
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.Development.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.exe
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.deps.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.runtimeconfig.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Json.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Threading.Channels.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.build.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.development.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CopyComplete
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\refint\BlazorServerSignalRApp.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.genruntimeconfig.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חממי הדר\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\ref\BlazorServerSignalRApp.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\refint\BlazorServerSignalRApp.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.pdb
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.Development.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\appsettings.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.exe
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.deps.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.runtimeconfig.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\BlazorServerSignalRApp.pdb
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.AssemblyInfo.cs
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.csproj.CopyComplete
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\BlazorServerSignalRApp.genruntimeconfig.cache
+D:\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net6.0\ref\BlazorServerSignalRApp.dll

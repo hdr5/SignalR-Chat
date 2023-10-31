@@ -15,12 +15,23 @@ namespace BlazorServerSignalRApp.Hubs
 
         public async Task SendMessage(string message)
         {
-            await Clients.All.SendAsync("ReceiveMessage", _service.Users.FirstOrDefault(u => u.Key == Context.ConnectionId), message);
+            var user = _service.Users.FirstOrDefault(u => u.Key == Context.ConnectionId);
+            await Clients.All.SendAsync("ReceiveMessage", user.Value, message);
         }
 
         public async Task SendPrivateMessage(string toUser, string message)
         {
-            await Clients.Client(toUser).SendAsync("ReceiveMessage", _service.Users.FirstOrDefault(u => u.Key == Context.ConnectionId), message);
+            var user = _service.Users.FirstOrDefault(u => u.Key == Context.ConnectionId);
+
+            var connectionIdByUserName = _service.Users.FirstOrDefault(u => u.Value == toUser);
+            if (connectionIdByUserName.Key is not null)
+            {
+                await Clients.Client(connectionIdByUserName.Key).SendAsync("ReceiveMessage", user.Value, message);
+            }
+            else
+            {
+                Console.WriteLine("The user is not exist");
+            }
         }
 
 

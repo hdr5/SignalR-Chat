@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rkwdO1FWAVB1zU06aLUyqBKkgRUToESPu8QQnhZ9VEktzy+LBvbhKtViAU8lHAY16Xkv1/RtnRfW0le41b7jIQ==",
+  "dgSpecHash": "02Vbfje8UBZ0rv9ESlyKMsC1ziopMmQPAeyIZ1o5iIwQb0PJNHh1KsTt5LmwOs3bbHyigfdzjeO6LHeApeKuSg==",
   "success": true,
-  "projectFilePath": "D:\\BlazorServerSignalRApp\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
+  "projectFilePath": "C:\\Users\\Hadar\\Source\\Repos\\SignalR-Chat\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hadar\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.1\\microsoft.aspnetcore.connections.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\Hadar\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\7.0.1\\microsoft.aspnetcore.http.connections.client.7.0.1.nupkg.sha512",

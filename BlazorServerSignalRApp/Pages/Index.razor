@@ -47,24 +47,37 @@
 
         hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
         {
-            var encodedMsg = $"[{DateTime.Now.Hour}:{DateTime.Now.Minute} On {DateTime.Today.DayOfWeek}] {user} wrote: {message}";
+            var encodedMsg = $"[{DateTime.Now.Hour}:{DateTime.Now.Minute} On {DateTime.Today.DayOfWeek}] ";
+
+            if (user is not null)
+            {
+                encodedMsg += $"{user} wrote: {message}";
+            }
+            else
+            {
+                encodedMsg += $"anonymous wrote: {message}";
+            }
             messages.Add(encodedMsg);
             InvokeAsync(StateHasChanged);
         });
 
         await hubConnection.StartAsync();
     }
-    ///////////////////////////////its suppose to work but something wrong in chat file with the function 'first'
+
+
     private async Task Send()
     { 
         if (hubConnection is not null)
         {
             if(toUserInput is not null)
-               await hubConnection.SendAsync("SendPrivateMessage", toUserInput, messageInput);
-            await hubConnection.SendAsync("SendMessage", messageInput);
+                await hubConnection.SendAsync("SendPrivateMessage", toUserInput, messageInput);
+            else{
+                await hubConnection.SendAsync("SendMessage", messageInput);
+            }
             messageInput = "";
         }
     }
+    
     private void AddUser()
     {
         if(userInput is not null)

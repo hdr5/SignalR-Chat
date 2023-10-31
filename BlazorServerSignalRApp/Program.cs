@@ -4,7 +4,9 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.ResponseCompression;
 using BlazorServerSignalRApp.Hubs;
 
+
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 builder.Services.AddRazorPages();
@@ -14,7 +16,6 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddSingleton<ChatService>();
-//builder.Services.AddSingleton<ChatService,ChatHub>();
 builder.Services.AddResponseCompression(opts =>
 {
     opts.MimeTypes = ResponseCompressionDefaults.MimeTypes.Concat(

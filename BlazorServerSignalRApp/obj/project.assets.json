@@ -913,11 +913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BlazorServerSignalRApp\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
+      "projectUniqueName": "C:\\Users\\Hadar\\Source\\Repos\\SignalR-Chat\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
       "projectName": "BlazorServerSignalRApp",
-      "projectPath": "D:\\BlazorServerSignalRApp\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
+      "projectPath": "C:\\Users\\Hadar\\Source\\Repos\\SignalR-Chat\\BlazorServerSignalRApp\\BlazorServerSignalRApp.csproj",
       "packagesPath": "C:\\Users\\Hadar\\.nuget\\packages\\",
-      "outputPath": "D:\\BlazorServerSignalRApp\\BlazorServerSignalRApp\\obj\\",
+      "outputPath": "C:\\Users\\Hadar\\Source\\Repos\\SignalR-Chat\\BlazorServerSignalRApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
